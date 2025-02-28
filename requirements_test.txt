@@ -1,9 +1,0 @@
-pytest
-pytest-cov
-pytest-mock
-coverage
-codecov
-tox
-twine
-wheel
-pandas>=1.5
